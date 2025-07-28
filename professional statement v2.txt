@@ -1,0 +1,4 @@
+Google Cybersecurity Cohort WiCyS 2025
+Professional Statement v2
+
+I am very curious about potential threats and I will use my attention to detail to find suspicious events.  I will use different security tools to identify if an item is malicious, and if it is, I will say how to address the issue.  I want my writing to be accessible to people on my team and anyone else who may see it, such as a customer receiving a ticket, who might not have a technical background.  I want to share my findings with my team and we can discover if there is a common origin behind several seemingly unrelated events.
